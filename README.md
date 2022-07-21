@@ -24,10 +24,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/CqVrgCw' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= 'https://i.imgur.com/CqVrgCw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
-I had nno challenges completing the app itself just when I was working on the extra features.
+I had no challenges completing the app itself just when I was working on the extra features.
 
 ## License
 
